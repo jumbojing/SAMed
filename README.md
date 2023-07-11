@@ -1,7 +1,7 @@
 SAMed
 ===
 
-此存储库包含以下白皮书的实现：
+此存储库包含以下论文的实现：
 
 > **Customized Segment Anything Model for Medical Image Segmentation** 医学图像分割的定制分割模型
 > [张开东](https://hitachinsk.github.io/)、[刘冬](https://faculty.ustc.edu.cn/dongeliu/)
