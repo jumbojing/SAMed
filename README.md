@@ -35,15 +35,15 @@ COLAB在线演示：[![在colab中打开](https://camo.githubusercontent.com/84f
 待办事项列表
 ------
 
-[] 制作演示。
-[] 对更多数据集进行微调
-[] ~~根据 SAM 的`vit_l`或`vit_h`模式的SAMed~~
+- [] 制作演示
+- [] 对更多数据集进行微调
+- [] ~~根据 SAM 的`vit_l`或`vit_h`模式的SAMed~~
 
 先决条件
 ----
 
--   Linux（我们在Ubuntu 18.04上测试了我们的代码）
-- `python`
+- `Linux`（我们在`Ubuntu 18.04上`测试了我们的代码）
+- `Anaconda`
 - `python 3.7.11`
 - `Pytorch 1.9.1`
 
